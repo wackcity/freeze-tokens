@@ -1,0 +1,20 @@
+{
+  "name": "freeze-accounts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "script": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^6.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
